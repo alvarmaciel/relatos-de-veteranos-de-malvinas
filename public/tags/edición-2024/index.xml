@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Edición 2024 on Relatos de Veteranos de Malvinas</title>
+    <link>http://localhost:1313/relatos-de-veteranos-de-malvinas/tags/edici%C3%B3n-2024/</link>
+    <description>Recent content in Edición 2024 on Relatos de Veteranos de Malvinas</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <copyright>© 2024 Proyecto Relatos de Veteranos de Malvinas</copyright>
+    <lastBuildDate>Thu, 06 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/relatos-de-veteranos-de-malvinas/tags/edici%C3%B3n-2024/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Reglamento</title>
+      <link>http://localhost:1313/relatos-de-veteranos-de-malvinas/proyecto/reglamento-proyecto/</link>
+      <pubDate>Thu, 06 Jun 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/relatos-de-veteranos-de-malvinas/proyecto/reglamento-proyecto/</guid>
+      <description>REGLAMENTO # A cada artista le corresponderá un relato de la entrevista designado al azar por orden de inscripción.</description>
+      
+    </item>
+    
+  </channel>
+</rss>

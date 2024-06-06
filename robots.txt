@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://alvarmaciel.github.io/relatos-de-veteranos-de-malvinas/sitemap.xml

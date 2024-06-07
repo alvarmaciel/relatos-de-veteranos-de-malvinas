@@ -1,14 +1,14 @@
 languageCode = "es"
 languageName = "Spanish"
 weight = 1
-title = "Relatos de Veteranos de Malvinas"
+title = "Inicio"
 
 [params]
   displayName = "ES"
   isoCode = "es"
   rtl = false
   dateFormat = "January 2 2006"
-  logo = "territorio-malvinas.jpg"
+  logo = "islas_malvinas_negro.png"# "territorio-malvinas.jpg"
   secondaryLogo = "img/secondary-logo.png"
   description = "Pagina del Proyecto Relatos de Veteranos de Malvinas"
   copyright = ""

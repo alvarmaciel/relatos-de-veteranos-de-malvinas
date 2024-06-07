@@ -9,7 +9,7 @@ title = "Inicio"
   rtl = false
   dateFormat = "January 2 2006"
   logo = "islas_malvinas_negro.png"# "territorio-malvinas.jpg"
-  secondaryLogo = "img/secondary-logo.png"
+  secondaryLogo = "islas_malvinas_negro.png"
   description = "Pagina del Proyecto Relatos de Veteranos de Malvinas"
   copyright = ""
 
@@ -20,7 +20,7 @@ title = "Inicio"
   bio = ""
   links = [
     { email = "mailto:hello@your_domain.com" },
-    { link = "https://link-to-some-website.com/" },
+#     { link = "https://link-to-some-website.com/" },
 #     { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
 #     { apple = "https://www.apple.com" },
 #     { blogger = "https://username.blogspot.com/" },

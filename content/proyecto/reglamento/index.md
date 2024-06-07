@@ -1,6 +1,6 @@
 ---
 title: "Reglamento"
-date: 2024-06-06
+date: 2024-06-04
 draft: false
 description: "Reglamento del proyecto"
 slug: "reglamento-proyecto"

@@ -1,6 +1,6 @@
 ---
 title: "Historia del proyecto"
-date: 2024-06-06
+date: 2024-06-05
 draft: false
 description: "Breve Historia del proyecto"
 slug: "historia-proyecto"
